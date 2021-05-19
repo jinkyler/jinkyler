@@ -16,12 +16,12 @@
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking Skills
 
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco): Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone &nbsp;
+![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone &nbsp;
 Ruijie : Switch, Wireless\
 Aruba : Clearpass\
 Sophos : XG Firewall\
-![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet): NGFW\
-![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software)Palo alto : NGFW\
+![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW\
+![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software) NGFW\
 #### 2. Programing Skills
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![AssemblyScript](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
