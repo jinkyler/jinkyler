@@ -44,7 +44,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact&theme=dark"/></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&color=brightgreengreen&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Tjinasri@outlook.co.th"><img src="https://img.shields.io/badge/-Tjinasri@outlook.co.th-D14836?style=plastic&logo=Microsoft-Outlook&logoColor=white"/></a>
