@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking
 My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:\
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IPPhone\
+![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IP Phone\
 ![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW\
 ![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software) NGFW\
 ![Ruijie](https://img.shields.io/badge/-Ruijie-05122A?) Switch, Wireless\
@@ -24,7 +24,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Sophos](https://img.shields.io/badge/-Sophos-05122A?) XG Firewall, RED
 #### 2. Programing
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![AssemblyScript](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 #### 3. Tools
