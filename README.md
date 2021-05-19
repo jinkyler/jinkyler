@@ -14,7 +14,7 @@
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
 ### 🛠 &nbsp;Technical Skills
-#### 1. Networking
+#### 1. Networking & Security
 My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:\
 ![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IP Phone\
 ![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW\
