@@ -1,7 +1,7 @@
 <!--#![Banner]()-->
 <h2>Hey everyone</h2><img alt="Jin Coding" src="./source/super banana/17.gif" width='50' align="left"/>
-### I'm Thanakon Jinasri, AKA Jin Kyler
 
+### I'm Thanakon Jinasri, AKA Jin Kyler
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -16,7 +16,7 @@
 
 ### 🛠 &nbsp;Technical Skills
 
-###### [Networking Skills]
+### [Networking Skills]
 
 ### [Programing Skills]
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
