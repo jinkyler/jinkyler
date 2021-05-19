@@ -1,6 +1,5 @@
 <!--#![Banner]()-->
-<!--<img alt="Jin Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler</h2>-->
-<img alt="Jin Coding" src="https://68.media.tumblr.com/e24bc0b3eafd5c9dc256c7ac59dc5f07/tumblr_muo0a2FWQ11qf1qjho8_500.gif" width='40' align="left"/><h2>Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler</h2>
+<img alt="Jin Coding" src="./source/super banana/17.gif" width='40' align="left"/><h2>Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
