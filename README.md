@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
 📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!
 
-<img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="right"/>
+<img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking
