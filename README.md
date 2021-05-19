@@ -37,10 +37,11 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ###  &nbsp;GitHub Stats
-<p align="center">
-<a href="https://github.com/jinkyler"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=My%20Github%20Stats&theme=dark"/></a>
-<a href="https://github.com/jinkyler"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact&theme=dark"/></a>
-</p>
+
+<a href="https://github.com/jinkyler">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=My%20Github%20Stats&theme=dark"/></a>
+<a href="https://github.com/jinkyler">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact&theme=dark"/></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
