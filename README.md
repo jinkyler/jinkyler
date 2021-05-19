@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.\
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
-📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I'm openmine to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I'm openmine to feedback and suggestions!
 
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
@@ -37,13 +37,13 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ###  &nbsp;GitHub Stats
-<p align="left">
+<p align="center">
 <a href="https://github.com/jinkyler"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=My%20Github%20Stats&theme=dark"/></a>
 <a href="https://github.com/jinkyler"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact&theme=dark"/></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p>
+<p align="left">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&color=brightgreengreen&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Tjinasri@outlook.co.th"><img src="https://img.shields.io/badge/-Tjinasri@outlook.co.th-D14836?style=plastic&logo=Microsoft-Outlook&logoColor=white"/></a>
