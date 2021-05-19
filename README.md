@@ -1,10 +1,8 @@
-![Banner]()
+<!--#![Banner]()-->
 <img alt="Jin Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler</h2>
 
-<!-- ## 👋 &nbsp;Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler -->
-
 ### 👨🏻‍💻 &nbsp;About Me
-Everyday, My job is a network engineer but I want to be a super engineer. 👷🔧
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
