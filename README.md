@@ -13,7 +13,7 @@
 
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
-### 🛠 &nbsp;Technical Skills
+### ⚙️ &nbsp;Technical Skills
 #### 1. Networking & Security
 My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:\
 ![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IP Phone\
@@ -27,7 +27,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
-#### 3. Tools
+### 🛠 &nbsp;Tools
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
@@ -35,7 +35,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+###  &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/jinkyler">
