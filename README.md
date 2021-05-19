@@ -15,7 +15,6 @@
 
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking Skills
-
 ![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone\
 ![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW\
 ![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software) NGFW\
@@ -27,11 +26,9 @@ Sophos : XG Firewall, RED
 ![AssemblyScript](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
-
 #### 3. Design Skills
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 #### 4. Tools
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
