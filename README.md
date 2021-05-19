@@ -1,4 +1,3 @@
-Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler ✨
 
 Everyday, My job is a network engineer but I want to be a super engineer. 👷🔧
 
@@ -19,11 +18,11 @@ Some Fun Facts about me:
 I like to draw a pictures and photo
 
 
-![Aditya Vikram Singh Banner]()
+![Banner]()
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="wait Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey everyone, I'm Thanakon Jinasri, AKA Jin Kyler -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
