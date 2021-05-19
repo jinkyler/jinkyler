@@ -38,8 +38,8 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 
 ###  &nbsp;GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=Github%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=Github%20Stats&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact&theme=dark)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
