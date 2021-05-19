@@ -6,7 +6,7 @@
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.\
 🎓 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.\
 🌱 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.\
-✍️ &nbsp;In my free time, I creating a Graphic Design , Drawing and playing a guitar as hobbies.\
+✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.\
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
 📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!
