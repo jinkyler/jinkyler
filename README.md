@@ -40,7 +40,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 <p align="left">
 <a href="https://github.com/jinkyler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinkyler&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jinkyler&layout=compact&langs_count=8&theme=flag-india"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jinkyler&layout=compact&langs_count=8&theme=flag-india"/>
 </a>
 </p>
 
