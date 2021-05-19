@@ -14,7 +14,6 @@
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="right"/>
 
 ### 🛠 &nbsp;Technical Skills
-
 #### 1. Networking Skills
 
 Ciscoco : Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone
