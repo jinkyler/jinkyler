@@ -45,6 +45,9 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact)
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&color=brightgreengreen&logoColor=white"/></a>
