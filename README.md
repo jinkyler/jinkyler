@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking Skills
 
-Ciscoco : Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone\
+![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco)Cisco : Switch, Router, Firewall, ISE, Wireless(Mobility & WLC),AMP4E and IP Phone &nbsp;
 Ruijie : Switch, Wireless\
 Aruba : Clearpass\
 Sophos : XG Firewall\
