@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&logoColor=white&color=brightgreengreen"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Tjinasri@outlook.co.th"><img src="https://img.shields.io/badge/-Tjinasri@outlook.co.th-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:Tjinasri@outlook.co.th"><img src="https://img.shields.io/badge/-Tjinasri@outlook.co.th-D14836?style=plastic&logo=Microsoft-Outlook&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/TJinasri"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/mungkon1995"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-BD081C?style=plastic&logo=Pinterest&logoColor=white"/></a>
