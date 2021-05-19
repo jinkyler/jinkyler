@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.\
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
-📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I'm openmine to feedback and suggestions!\
 
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
@@ -27,6 +27,7 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
+
 ### 🛠 &nbsp;Tools
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -36,7 +37,6 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ###  &nbsp;GitHub Analytics
-
 <p align="left">
 <a href="https://github.com/jinkyler">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinkyler&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -45,7 +45,6 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="left">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&color=brightgreengreen&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
@@ -53,5 +52,4 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 <a href="https://instagram.com/jinkyler_38"><img src="https://img.shields.io/badge/-jinkyler_38-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/TJinasri"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/mungkon1995"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-BD081C?style=plastic&logo=Pinterest&logoColor=white"/></a>
-
 </p>
