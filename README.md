@@ -16,7 +16,7 @@
 
 ### 🛠 &nbsp;Technical Skills
 
-### [Networking Skills]
+###### [Networking Skills]
 
 ### [Programing Skills]
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
