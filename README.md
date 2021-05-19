@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.\
-🎓 &nbsp;Currently, I'm a Network engineer in Thailand.\
+🎓 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
