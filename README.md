@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.\
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
-📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!\
 
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="left"/>
 
