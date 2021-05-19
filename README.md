@@ -5,11 +5,11 @@
 
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.\
 🎓 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🌱 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.\
+✍️ &nbsp;In my free time, I creating a Graphic Design , Drawing and playing a guitar as hobbies.\
+💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.\
+📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm openmine to feedback and suggestions!
 
 <img height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif" align="right"/>
 
