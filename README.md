@@ -36,17 +36,10 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-###  &nbsp;GitHub Analytics
-<p align="left">
-<a href="https://github.com/jinkyler">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinkyler&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jinkyler&layout=compact&langs_count=8&theme=gotham"/>
-</a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact)
-</p>
+###  &nbsp;GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jinkyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&layout=compact)]
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
