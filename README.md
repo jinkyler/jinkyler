@@ -1,7 +1,6 @@
 <!--#![Banner]()-->
-<h2>Hey everyone</h2>
-
-### I'm Thanakon Jinasri, AKA Jin Kyler <img alt="Jin Coding" src="./source/super banana/17.gif" width='50' align="left"/>
+<h2>Hey everyone</h2><img alt="Jin Coding" src="./source/super banana/17.gif" width='50' align="right"/>
+### I'm Thanakon Jinasri, AKA Jin Kyler 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
