@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Technical Skills
 #### 1. Networking
 My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:\
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch,Router,Firewall,ISE,Wireless,AMP4E and IPPhone\
+![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IPPhone\
 ![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW\
 ![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software) NGFW\
 ![Ruijie](https://img.shields.io/badge/-Ruijie-05122A?) Switch, Wireless\
