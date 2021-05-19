@@ -20,8 +20,8 @@
 Ruijie : Switch, Wireless\
 Aruba : Clearpass\
 Sophos : XG Firewall\
-Fortigate : NGFW\
-Palo alto : NGFW\
+![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet): NGFW\
+![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software)Palo alto : NGFW\
 #### 2. Programing Skills
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![AssemblyScript](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
