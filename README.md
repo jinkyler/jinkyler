@@ -5,7 +5,7 @@
 
 ### 
 ### 👨🏻‍💻 &nbsp;About Me
-👨‍🔧 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.🇹🇭<br>
+🇹🇭 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.<br>
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.<br>
 🚩 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.<br>
 ✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.<br>
