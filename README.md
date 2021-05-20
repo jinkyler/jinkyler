@@ -3,8 +3,7 @@
 <img src="./source/super banana/17.gif" width='50' align="left"/><h2>Hey everyone - I'm Thanakon Jinasri AKA Jin Kyler </h2>
 <img align="right" height='400' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif"/>
 
-### 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍🚀 &nbsp;About Me
 🇹🇭 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.<br>
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.<br>
 🚩 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.<br>
@@ -14,23 +13,19 @@
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.<br>
 
 ### 🏆 My certifications
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-CCNA%20Routing&Switching,%20CCNP%20ENCOR,%20CMNA%20Meraki-2ecc71?logo=Cisco"/>
+<img alt="Sophos" src="https://img.shields.io/badge/Sophos-XG%20Firewall%20Engineer-2980b9"/>
 
 ### ⚙️ Networking & Security Skills
-My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:<br>
-<img alt="Cisco" src="https://img.shields.io/badge/Cisco-Switch,%20Router,%20Firewall,%20ISE,%20Wireless,%20AMP4E%20and%20IP%20Phone-0dd9e4?logo=Cisco"/>
+My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:<br><br>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-Switch,%20Router,%20Firewall,%20ISE,%20Wireless,%20AMP4E%20and%20IP%20Phone-2ecc71?logo=Cisco"/>
 <img alt="Ruijie" src="https://img.shields.io/badge/Ruijie-Switch,%20Wireless-e4340d"/>
-<img alt="Aruba" src="https://img.shields.io/badge/Aruba-Wireless,%20Clearpass-e4820d"/><br>
+<img alt="Aruba" src="https://img.shields.io/badge/Aruba-Wireless,%20Clearpass-f39c12"/><br>
 <img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-NGFW-dedcda?logo=Fortinet"/>
-<img alt="PaloAlto" src="https://img.shields.io/badge/PaloAlto-NGFW-e4d00d?logo=Palo-Alto-Software"/>
-<img alt="Sophos" src="https://img.shields.io/badge/Sophos-XG%20Firewall,%20RED-0d57e4"/>
+<img alt="PaloAlto" src="https://img.shields.io/badge/PaloAlto-NGFW-f4d03f?logo=Palo-Alto-Software"/>
+<img alt="Sophos" src="https://img.shields.io/badge/Sophos-XG%20Firewall,%20RED-2980b9"/>
 
-### 💻 Programing Skills
+### 👨‍💻 Programing Skills
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=AssemblyScript&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
