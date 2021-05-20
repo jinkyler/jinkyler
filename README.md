@@ -1,8 +1,9 @@
 <!--#![Banner]()-->
+<img align="right" src="https://komarev.com/ghpvc/?username=jinkyler&color=brightgreen" alt="watching_count" />
 <img alt="Jin Coding" src="./source/super banana/17.gif" width='50' align="left"/><h2>Hey everyone</h2>
 ### I'm Thanakon Jinasri, AKA Jin Kyler 
-### 👨🏻‍💻 &nbsp;About Me
 
+### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.\
 👨‍🔧 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.🇹🇭\
 🚩 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.\
