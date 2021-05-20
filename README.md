@@ -8,20 +8,27 @@
 🇹🇭 &nbsp;Currently, I'm a Network engineer in Bangkok,Thailand.<br>
 💡 &nbsp;I love exploring new technologies and develop software as well as script for my job responsibilities.<br>
 🚩 &nbsp;I'm on track for learning more about Network Automamtion, Cloud Architecture and Ethical hacking.<br>
-✍️ &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.<br>
+🎨 &nbsp;In my free time, I creating a Graphic design , Drawing and Playing a guitar as hobbies.<br>
 💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.<br>
 📄 &nbsp;Please have a look at my [Resume](https://) for more details about me. I'm openmine to feedback and suggestions!<br>
 ✉️ &nbsp;You can shoot me an email at Tjinasri@outlook.co.th! I'll try to respond as soon as available time.<br>
 
 ### 🏆 My certifications
+<ul>
+  <li>SOA: Exam FM, Exam P</li>
+  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
+  <li>Coursera: SAS Visual Business Analytics</li>
+  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+</ul>
+
 ### ⚙️ Networking & Security Skills
-My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:<br><br>
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=Cisco) Switch, Router, Firewall, ISE, Wireless, AMP4E and IP Phone<br>
-![Fortinet](https://img.shields.io/badge/-Fortinet-05122A?style=flat&logo=Fortinet) NGFW<br>
-![PaloAlto](https://img.shields.io/badge/-PaloAlto-05122A?style=flat&logo=Palo-Alto-Software) NGFW<br>
-![Ruijie](https://img.shields.io/badge/-Ruijie-05122A?) Switch, Wireless<br>
-![Aruba](https://img.shields.io/badge/-Aruba-05122A?) Clearpass<br>
-![Sophos](https://img.shields.io/badge/-Sophos-05122A?) XG Firewall, RED
+My primary role is Implement, Design and Troubleshooting a Enterpise Network product such as following below list:<br>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-Switch,%20Router,%20Firewall,%20ISE,%20Wireless,%20AMP4E%20and%20IP%20Phone-0dd9e4?logo=Cisco"/>
+<img alt="Ruijie" src="https://img.shields.io/badge/Ruijie-Switch,%20Wireless-e4340d"/>
+<img alt="Aruba" src="https://img.shields.io/badge/Aruba-Wireless,%20Clearpass-e4820d"/><br>
+<img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-NGFW-dedcda?logo=Fortinet"/>
+<img alt="PaloAlto" src="https://img.shields.io/badge/PaloAlto-NGFW-e4d00d?logo=Palo-Alto-Software"/>
+<img alt="Sophos" src="https://img.shields.io/badge/Sophos-XG%20Firewall,%20RED-0d57e4"/>
 
 ### 💻 Programing Skills
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
