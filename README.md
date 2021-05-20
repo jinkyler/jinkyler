@@ -37,13 +37,6 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<!--###  &nbsp;GitHub Stats-->
-<a href="https://github.com/jinkyler">
-  <img align="center" height='150' src="https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=My%20Github%20Stats&theme=dark"/></a>
-<a href="https://github.com/jinkyler">
-  <img align="center" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&langs_count=8&layout=compact&theme=dark"/></a>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://www.credly.com/users/thanakon-jinasri/badges"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-3423A6?style=flat&logo=Google-Chrome&color=brightgreengreen&logoColor=white"/></a>
@@ -53,4 +46,19 @@ My primary role is Implement, Design and Troubleshooting a Enterpise Network pro
 <a href="https://www.facebook.com/TJinasri"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/mungkon1995"><img src="https://img.shields.io/badge/-Thanakon%20Jinasri-BD081C?style=plastic&logo=Pinterest&logoColor=white"/></a>
 </p>
+
+## 📈 Github Stats
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/jinkyler">
+  <img align="center" height='150' src="https://github-readme-stats.vercel.app/api?username=jinkyler&show_icons=true&custom_title=My%20Github%20Stats&theme=dark"/></a>
+  <a href="https://github.com/jinkyler">
+  <img align="center" height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinkyler&langs_count=8&layout=compact&theme=dark"/></a>
+</details>
+
+
+
 
