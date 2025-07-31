@@ -1,13 +1,11 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=jinkyler&color=brightgreen" alt="profile views"/>
-
-# 👋 Hi, I’m Thanakon Jinasri (aka Jin Kyler)
-
-![Guitar GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<img src="./source/super banana/17.gif" width='50' align="left"/><h2>👋 Hi, I’m Thanakon Jinasri (aka Jin Kyler)</h2>
+<img align="right" height='350' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif"/>
 
 **Senior Network Engineer** with 8+ years of experience in **enterprise infrastructure, automation, and security solutions**.  
 Currently focused on building modern, secure, and scalable IT environments through automation and visibility.
 
-> "Keep learning, keep automating."
+> "This is just the beginning. The real learning starts now."
 
 ---
 
@@ -96,3 +94,5 @@ _(More on my [Medium profile](https://medium.com/@tjinasri))_
 [![Fastwork](https://img.shields.io/badge/-Freelance%20(Fastwork)-orange?logo=fastapi)](https://fastwork.co/user/tjinasri)  
 [![Email](https://img.shields.io/badge/-tjinasri@outlook.co.th-d14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:tjinasri@outlook.co.th)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)  
+
+<img  height='300' src="https://github.com/jinkyler/jinkyler/blob/c3001341188df984c8968f1dc957bb3353c5b576/source/Dino_non-birthday_version.gif"/>
