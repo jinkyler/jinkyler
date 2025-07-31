@@ -38,7 +38,7 @@ Currently focused on building modern, secure, and scalable IT environments throu
 ## 🚀 Current Focus & Goals
 
 - 🔍 Researching frameworks for visibility/control in hybrid environments  
-- 🤖 Developing automation tools using Ansible and Python  
+- 🤖 Developing automation tools using n8n, Ansible and Python  
 - ☁️ Exploring AI-driven consulting for IT infrastructure  
 - 🧠 Planning B2B digital solution platform
 
