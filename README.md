@@ -2,8 +2,12 @@
 
 # 👋 Hi, I’m Thanakon Jinasri (aka Jin Kyler)
 
+![Guitar GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 **Senior Network Engineer** with 8+ years of experience in **enterprise infrastructure, automation, and security solutions**.  
 Currently focused on building modern, secure, and scalable IT environments through automation and visibility.
+
+> "Keep learning, keep automating."
 
 ---
 
@@ -44,6 +48,27 @@ Currently focused on building modern, secure, and scalable IT environments throu
 
 ---
 
+## 🎸 Fun Projects & Hobby Coding
+
+- **Home Automation Scripts** – Automate smart devices via Python and MQTT  
+- **Telegram Notification Bot** – Alerts for network events and daily reminders  
+- **Guitar Practice Helper** – Simple Python tool for timing practice sessions and chord quizzes  
+- **Mini AI Chatbot** – Experimenting with NLP for quick Q&A on tech topics
+
+_Check out my [fun-projects repository](https://github.com/jinkyler/fun-projects)_
+
+---
+
+## 📝 Latest Blog Posts
+
+- [How to Automate Network Backups with Ansible](https://medium.com/@tjinasri/how-to-automate-network-backups-with-ansible-123456)  
+- [Understanding Cisco ISE for Network Access Control](https://medium.com/@tjinasri/understanding-cisco-ise-for-network-access-control-789012)  
+- [Getting Started with AI in IT Operations](https://medium.com/@tjinasri/getting-started-with-ai-in-it-operations-345678)  
+
+_(More on my [Medium profile](https://medium.com/@tjinasri))_
+
+---
+
 ## 🧾 Certifications
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCNP%20Enterprise%20|%20CCNA-2ecc71?logo=cisco)
@@ -67,7 +92,7 @@ Currently focused on building modern, secure, and scalable IT environments throu
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/tjinasri)
-[![Fastwork](https://img.shields.io/badge/-Freelance%20(Fastwork)-orange?logo=fastapi)](https://fastwork.co/user/tjinasri)
-[![Email](https://img.shields.io/badge/-tjinasri@outlook.co.th-d14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:tjinasri@outlook.co.th)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/tjinasri)  
+[![Fastwork](https://img.shields.io/badge/-Freelance%20(Fastwork)-orange?logo=fastapi)](https://fastwork.co/user/tjinasri)  
+[![Email](https://img.shields.io/badge/-tjinasri@outlook.co.th-d14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:tjinasri@outlook.co.th)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)  
