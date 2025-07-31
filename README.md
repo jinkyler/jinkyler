@@ -48,7 +48,7 @@ Currently focused on building modern, secure, and scalable IT environments throu
 
 ## 🎸 Fun Projects & Hobby Coding
 
-- **Telegram Alert Bot** – Lightweight bot for PM alerts and routine reminders
+- **Telegram Project Alert Bot** – Lightweight bot for PM alerts and routine reminders
 
 _Check out my [fun-projects repository](https://github.com/jinkyler/fun-projects)_
 
