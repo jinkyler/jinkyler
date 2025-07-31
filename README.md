@@ -48,10 +48,7 @@ Currently focused on building modern, secure, and scalable IT environments throu
 
 ## 🎸 Fun Projects & Hobby Coding
 
-- **Home Automation Scripts** – Automate smart devices via Python and MQTT  
-- **Telegram Notification Bot** – Alerts for network events and daily reminders  
-- **Guitar Practice Helper** – Simple Python tool for timing practice sessions and chord quizzes  
-- **Mini AI Chatbot** – Experimenting with NLP for quick Q&A on tech topics
+- **Telegram Alert Bot** – Lightweight bot for PM alerts and routine reminders
 
 _Check out my [fun-projects repository](https://github.com/jinkyler/fun-projects)_
 
