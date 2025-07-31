@@ -31,10 +31,7 @@ Currently focused on building modern, secure, and scalable IT environments throu
   Zabbix, Grafana, Ansible (backup, workflow, visibility)
 
 - **Virtualization & Cloud**  
-  HPE SimpliVity, VMware vSphere/vSAN, Cisco ASAv on cloud, segmentation, policy control
-
-- **Infra Projects**  
-  Large-scale switch replacements, software upgrades, enterprise infra tuning
+  HPE SimpliVity, VMware vSphere/vSAN, Cisco ASAv on cloud
 
 ---
 
@@ -73,3 +70,4 @@ Currently focused on building modern, secure, and scalable IT environments throu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/tjinasri)
 [![Fastwork](https://img.shields.io/badge/-Freelance%20(Fastwork)-orange?logo=fastapi)](https://fastwork.co/user/tjinasri)
 [![Email](https://img.shields.io/badge/-tjinasri@outlook.co.th-d14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:tjinasri@outlook.co.th)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)
