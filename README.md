@@ -1,5 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=jinkyler&color=brightgreen" alt="profile views"/>
-<img src="./source/super banana/17.gif" width='50' align="left"/><h2>👋 Hi, I’m Thanakon Jinasri (aka Jin Kyler)</h2>
+<img src="./source/super banana/17.gif" width='50' align="left"/><h2> Hi, I’m Thanakon Jinasri (aka Jin Kyler)</h2>
 <img align="right" height='350' src="https://github.com/jinkyler/jinkyler/blob/a6979f1160a2d6bb8bfaa84391e08e51dd6a6e07/source/programer.gif"/>
 
 **Senior Network Engineer** with 8+ years of experience in **enterprise infrastructure, automation, and security solutions**.  
@@ -12,28 +12,28 @@ Currently focused on building modern, secure, and scalable IT environments throu
 ## 💼 Specializations
 
 - **Enterprise Networking**  
-  Cisco Catalyst (C9407R, C9300), Cisco WLC, Cisco ISE (802.1X, EAP-TLS/PEAP, Dynamic VLAN)
+  > "Cisco Catalyst (C9407R, C9300), Cisco WLC, Cisco ISE (802.1X, EAP-TLS/PEAP, Dynamic VLAN)"
 
 - **Security & Firewalls**  
-  Cisco FTD, Fortinet (IPsec, SD-WAN), Palo Alto, Sophos, CrowdStrike, Forti SIEM
+  > "Cisco FTD, Fortinet (IPsec, SD-WAN), Palo Alto, Sophos, CrowdStrike, Forti SIEM"
 
 - **Systems & Services**  
-  Active Directory, DNS, RADIUS, GPO, Veeam Backup
+  > "Active Directory, DNS, RADIUS, GPO, Veeam Backup"
 
 - **Load Balancing**  
-  F5 BIG-IP LTM
+  > "F5 BIG-IP LTM"
 
 - **VPN & Remote Access**  
-  Cisco AnyConnect (SSL VPN), Sophos RED, Fortinet IPsec
+  > "Cisco AnyConnect (SSL VPN), Sophos RED, Fortinet IPsec"
 
 - **Authentication & Access Control**  
-  802.1X (wired/wireless), SSO (SAML, OAuth via ADFS), MFA (Cisco Duo)
+  > "802.1X (wired/wireless), SSO (SAML, OAuth via ADFS), MFA (Cisco Duo)"
 
 - **Monitoring & Automation**  
-  Zabbix, Grafana, Ansible (backup, workflow, visibility)
+  > "Zabbix, Grafana, Ansible (backup, workflow, visibility)"
 
 - **Virtualization & Cloud**  
-  HPE SimpliVity, VMware vSphere/vSAN, Cisco ASAv on cloud
+  > "HPE SimpliVity, VMware vSphere/vSAN, Cisco ASAv on cloud"
 
 ---
 
@@ -90,9 +90,9 @@ _(More on my [Medium profile](https://medium.com/@tjinasri))_
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/tjinasri)  
-[![Fastwork](https://img.shields.io/badge/-Freelance%20(Fastwork)-orange?logo=fastapi)](https://fastwork.co/user/tjinasri)  
-[![Email](https://img.shields.io/badge/-tjinasri@outlook.co.th-d14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:tjinasri@outlook.co.th)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tjinasri-blue?logo=linkedin&style=flat)](https://linkedin.com/in/tjinasri) 
+[![Email](https://img.shields.io/badge/Email-tjinasri@outlook.co.th-d14836?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:tjinasri@outlook.co.th) 
+[![Fastwork](https://img.shields.io/badge/Fastwork-Freelance-orange?logo=freelancer&logoColor=white&style=flat)](https://fastwork.co/user/tjinasri) 
+[![Facebook](https://img.shields.io/badge/Facebook-TJinasri-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/TJinasri)
 
 <img  height='300' src="https://github.com/jinkyler/jinkyler/blob/c3001341188df984c8968f1dc957bb3353c5b576/source/Dino_non-birthday_version.gif"/>
